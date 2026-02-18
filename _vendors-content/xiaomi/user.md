@@ -1,4 +1,14 @@
----
+ehshx
+gdgd
+hgj
+ygh
+hvs
+gfuf
+uvgx
+rusx
+gfjx
+ufjc
+hfg---
 manufacturer: 
     - xiaomi
 
